@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be4958aa37dcc76ee5ebe9dc239571f8",
+    "revision": "13c3d8d040571edd8a5c2162257d9fd3",
     "url": "/umusicV2/index.html"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umusicV2/static/css/13.fe17e490.chunk.css"
   },
   {
-    "revision": "6119c9818974d44be378",
+    "revision": "55a5ace706bb0a75a151",
     "url": "/umusicV2/static/css/17.87a9b032.chunk.css"
   },
   {
-    "revision": "695b43fbe81247772f58",
+    "revision": "43b17f3fd05b07669b62",
     "url": "/umusicV2/static/css/18.87a9b032.chunk.css"
   },
   {
-    "revision": "df39be3af44a1b24cb01",
+    "revision": "904b14fd45c3e8e86253",
     "url": "/umusicV2/static/css/19.87a9b032.chunk.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umusicV2/static/css/7.729abcda.chunk.css"
   },
   {
-    "revision": "d9240565de1dcf774b71",
+    "revision": "ca67376f806de7461d5f",
     "url": "/umusicV2/static/css/8.2a6aab7a.chunk.css"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umusicV2/static/css/9.729abcda.chunk.css"
   },
   {
-    "revision": "b7b7e86f2574a21fe9bc",
+    "revision": "247a22297db08305e947",
     "url": "/umusicV2/static/css/main.fb259099.chunk.css"
   },
   {
@@ -92,16 +92,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umusicV2/static/js/16.92b24fb6.chunk.js"
   },
   {
-    "revision": "6119c9818974d44be378",
-    "url": "/umusicV2/static/js/17.4f18f445.chunk.js"
+    "revision": "55a5ace706bb0a75a151",
+    "url": "/umusicV2/static/js/17.b2010cba.chunk.js"
   },
   {
-    "revision": "695b43fbe81247772f58",
-    "url": "/umusicV2/static/js/18.ee79a6b3.chunk.js"
+    "revision": "43b17f3fd05b07669b62",
+    "url": "/umusicV2/static/js/18.bffc61b5.chunk.js"
   },
   {
-    "revision": "df39be3af44a1b24cb01",
-    "url": "/umusicV2/static/js/19.f9fc49bd.chunk.js"
+    "revision": "904b14fd45c3e8e86253",
+    "url": "/umusicV2/static/js/19.81bcf52f.chunk.js"
   },
   {
     "revision": "9fceee68d6d9d2437166",
@@ -144,20 +144,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umusicV2/static/js/7.5591c576.chunk.js"
   },
   {
-    "revision": "d9240565de1dcf774b71",
-    "url": "/umusicV2/static/js/8.ffee3ca3.chunk.js"
+    "revision": "ca67376f806de7461d5f",
+    "url": "/umusicV2/static/js/8.15c365cd.chunk.js"
   },
   {
     "revision": "337d01fee4f87b6e4731",
     "url": "/umusicV2/static/js/9.b3ecc1c6.chunk.js"
   },
   {
-    "revision": "b7b7e86f2574a21fe9bc",
-    "url": "/umusicV2/static/js/main.d24de300.chunk.js"
+    "revision": "247a22297db08305e947",
+    "url": "/umusicV2/static/js/main.26f88ef5.chunk.js"
   },
   {
-    "revision": "e4edbaa2f4980208a905",
-    "url": "/umusicV2/static/js/runtime-main.a4813550.js"
+    "revision": "58cc2241d93f3843a79d",
+    "url": "/umusicV2/static/js/runtime-main.7c00e206.js"
   },
   {
     "revision": "71d1b3a59a3bd9205355b69665233156",
